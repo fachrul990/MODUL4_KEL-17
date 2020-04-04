@@ -1,0 +1,13 @@
+D:\Fachrul\UNDIP\SMT 2\PRAKTIKUM DKP\MODUL4_KEL 17\Percobaan C#\modul4_kel17\obj\Debug\netcoreapp3.1\modul4_kel17.csprojAssemblyReference.cache
+D:\Fachrul\UNDIP\SMT 2\PRAKTIKUM DKP\MODUL4_KEL 17\Percobaan C#\modul4_kel17\obj\Debug\netcoreapp3.1\modul4_kel17.csproj.CoreCompileInputs.cache
+D:\Fachrul\UNDIP\SMT 2\PRAKTIKUM DKP\MODUL4_KEL 17\Percobaan C#\modul4_kel17\obj\Debug\netcoreapp3.1\modul4_kel17.AssemblyInfoInputs.cache
+D:\Fachrul\UNDIP\SMT 2\PRAKTIKUM DKP\MODUL4_KEL 17\Percobaan C#\modul4_kel17\obj\Debug\netcoreapp3.1\modul4_kel17.AssemblyInfo.cs
+D:\Fachrul\UNDIP\SMT 2\PRAKTIKUM DKP\MODUL4_KEL 17\Percobaan C#\modul4_kel17\bin\Debug\netcoreapp3.1\modul4_kel17.exe
+D:\Fachrul\UNDIP\SMT 2\PRAKTIKUM DKP\MODUL4_KEL 17\Percobaan C#\modul4_kel17\bin\Debug\netcoreapp3.1\modul4_kel17.deps.json
+D:\Fachrul\UNDIP\SMT 2\PRAKTIKUM DKP\MODUL4_KEL 17\Percobaan C#\modul4_kel17\bin\Debug\netcoreapp3.1\modul4_kel17.runtimeconfig.json
+D:\Fachrul\UNDIP\SMT 2\PRAKTIKUM DKP\MODUL4_KEL 17\Percobaan C#\modul4_kel17\bin\Debug\netcoreapp3.1\modul4_kel17.runtimeconfig.dev.json
+D:\Fachrul\UNDIP\SMT 2\PRAKTIKUM DKP\MODUL4_KEL 17\Percobaan C#\modul4_kel17\bin\Debug\netcoreapp3.1\modul4_kel17.dll
+D:\Fachrul\UNDIP\SMT 2\PRAKTIKUM DKP\MODUL4_KEL 17\Percobaan C#\modul4_kel17\bin\Debug\netcoreapp3.1\modul4_kel17.pdb
+D:\Fachrul\UNDIP\SMT 2\PRAKTIKUM DKP\MODUL4_KEL 17\Percobaan C#\modul4_kel17\obj\Debug\netcoreapp3.1\modul4_kel17.dll
+D:\Fachrul\UNDIP\SMT 2\PRAKTIKUM DKP\MODUL4_KEL 17\Percobaan C#\modul4_kel17\obj\Debug\netcoreapp3.1\modul4_kel17.pdb
+D:\Fachrul\UNDIP\SMT 2\PRAKTIKUM DKP\MODUL4_KEL 17\Percobaan C#\modul4_kel17\obj\Debug\netcoreapp3.1\modul4_kel17.genruntimeconfig.cache
